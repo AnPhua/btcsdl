@@ -1,0 +1,13 @@
+D:\cSharp-20220827T025039Z-001\demoDatabaseconnect\demoDatabaseconnect\bin\Debug\Quanlichatlieu.mdf
+D:\cSharp-20220827T025039Z-001\demoDatabaseconnect\demoDatabaseconnect\bin\Debug\Quanlichatlieu_log.ldf
+D:\cSharp-20220827T025039Z-001\demoDatabaseconnect\demoDatabaseconnect\bin\Debug\demoDatabaseconnect.exe.config
+D:\cSharp-20220827T025039Z-001\demoDatabaseconnect\demoDatabaseconnect\bin\Debug\demoDatabaseconnect.exe
+D:\cSharp-20220827T025039Z-001\demoDatabaseconnect\demoDatabaseconnect\bin\Debug\demoDatabaseconnect.pdb
+D:\cSharp-20220827T025039Z-001\demoDatabaseconnect\demoDatabaseconnect\obj\Debug\demoDatabaseconnect.csproj.AssemblyReference.cache
+D:\cSharp-20220827T025039Z-001\demoDatabaseconnect\demoDatabaseconnect\obj\Debug\demoDatabaseconnect.csproj.SuggestedBindingRedirects.cache
+D:\cSharp-20220827T025039Z-001\demoDatabaseconnect\demoDatabaseconnect\obj\Debug\demoDatabaseconnect.Form1.resources
+D:\cSharp-20220827T025039Z-001\demoDatabaseconnect\demoDatabaseconnect\obj\Debug\demoDatabaseconnect.Properties.Resources.resources
+D:\cSharp-20220827T025039Z-001\demoDatabaseconnect\demoDatabaseconnect\obj\Debug\demoDatabaseconnect.csproj.GenerateResource.cache
+D:\cSharp-20220827T025039Z-001\demoDatabaseconnect\demoDatabaseconnect\obj\Debug\demoDatabaseconnect.csproj.CoreCompileInputs.cache
+D:\cSharp-20220827T025039Z-001\demoDatabaseconnect\demoDatabaseconnect\obj\Debug\demoDatabaseconnect.exe
+D:\cSharp-20220827T025039Z-001\demoDatabaseconnect\demoDatabaseconnect\obj\Debug\demoDatabaseconnect.pdb
